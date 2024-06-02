@@ -1,0 +1,14 @@
+C:\Users\kenda\source\repos\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\kenda\source\repos\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\kenda\source\repos\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\kenda\source\repos\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\kenda\source\repos\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\kenda\source\repos\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\kenda\source\repos\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\kenda\OneDrive\Documentos\Programacion2\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\kenda\OneDrive\Documentos\Programacion2\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\kenda\OneDrive\Documentos\Programacion2\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\kenda\OneDrive\Documentos\Programacion2\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\kenda\OneDrive\Documentos\Programacion2\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\kenda\OneDrive\Documentos\Programacion2\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\kenda\OneDrive\Documentos\Programacion2\Calculadora\obj\Debug\Calculadora.pdb
